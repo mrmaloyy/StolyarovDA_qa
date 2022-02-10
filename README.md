@@ -1,5 +1,4 @@
 # StolyarovDA_qa
-___
 
 [Пример моих тест кейсов](https://docs.google.com/spreadsheets/d/1Gs6t0oJkPB22tbI_7rCAuDaUiotUr5LuZClOigbsyjk/edit?usp=sharing)
 
